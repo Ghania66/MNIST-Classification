@@ -22,7 +22,4 @@ The goal is to accurately recognize digits (0–9) from grayscale images using d
 | NumPy         |                     |
 | Matplotlib    |                     |
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
